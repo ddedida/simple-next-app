@@ -23,3 +23,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - Post Page:
 
 ![page](https://cdn.discordapp.com/attachments/702797283795927123/1202648312088367184/Screenshot_117.png?ex=65ce3885&is=65bbc385&hm=2ec4035cd449f968144185e6919054d420dae13d79c29c3fdca14c552c467e0f&)
+
+```js
+console.log("Thank you!");
+```
